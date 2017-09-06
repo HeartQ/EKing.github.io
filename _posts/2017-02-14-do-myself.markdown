@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Do Myself" 
+tags: TEST
+categories: original
+---
+
+{{ site.time | date_to_rfc822 }}
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
+2.14 距发榜一天
+
+知道考不上 不应该抱有太大的希望 。
+
+浑浑噩噩的度过了大学最黑暗的半年
+
+付出与回报 就是这样成正比的吧
+
+趁早做决定 给自己打了预防针
+
+在听到成绩的那一刻 但愿自己不会失落至极吧
+
+下过决心考研开始 考上便罢 
+
+若没考上 每每想起 都是一个痛点
+
+
