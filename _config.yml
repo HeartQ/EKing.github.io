@@ -42,20 +42,20 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Charming Young
-  email: "cyrusyang@yeah.net"
-  facebook: HeartQ  # eg. daattali
-  github: HeartQ    # eg. daattali
-  twitter: HeartQ   # eg. daattali
-  reddit: HeartQ    # eg. daattali
+  name: Wang Yi
+  email: "935498409@qq.com"
+  facebook: EKing  # eg. daattali
+  github: EKing   # eg. daattali
+  twitter: EKing   # eg. daattali
+  reddit: EKing    # eg. daattali
   google-plus: +cyrusyang   # eg. +DeanAttali or 109424658772469020925
-  linkedin: HeartQ  # eg. daattali
-  xing: HeartQ      # eg. daattali
+  linkedin: EKing  # eg. daattali
+  xing: EKing      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: HeartQ  # eg. daattali
-  instagram: HeartQ # eg. daattali
-  youtube: HeartQ   # eg. user/daattali or channel/daattali
-  spotify: HeartQ   # eg. daattali
+  snapchat: EKing  # eg. daattali
+  instagram: EKing # eg. daattali
+  youtube: EKing   # eg. user/daattali or channel/daattali
+  spotify: EKing   # eg. daattali
   telephone: +86 18030817082   # eg. +14159998888
 
 # Select which links to show in the footer
