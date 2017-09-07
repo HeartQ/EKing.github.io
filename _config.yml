@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://eking.github.io"
+url: "http://heartq.github.io/eking.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -24,14 +24,14 @@ description: Thanks for Github that sets the platform where I can embrace new te
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme_1"
+  About Me: "/eking.github.io/aboutme"
   Resources:
     - PM‘s Study: "http://www.woshipm.com/"
     - Photo: "https://zh.clippingmagic.com/"
     - Slimilar: "https://www.similarweb.com/"
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon-1.png"
+avatar: "/eking.github.io/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
