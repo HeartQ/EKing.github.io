@@ -24,7 +24,7 @@ description: Thanks for Github that sets the platform where I can embrace new te
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "/eking.github.io/aboutme"
+  About Me: "aboutmi"
   Resources:
     - PM‘s Study: "http://www.woshipm.com/"
     - Photo: "https://zh.clippingmagic.com/"
